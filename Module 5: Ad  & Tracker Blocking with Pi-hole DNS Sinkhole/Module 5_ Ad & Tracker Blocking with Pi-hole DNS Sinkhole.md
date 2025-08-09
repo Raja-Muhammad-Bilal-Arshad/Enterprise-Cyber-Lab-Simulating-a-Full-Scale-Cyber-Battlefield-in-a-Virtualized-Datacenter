@@ -31,13 +31,13 @@
 
 ###  **Step 2: Install Pi-hole**
 
-\`\`\`bash  
+```bash  
 `# Update packages`  
 `sudo apt update && sudo apt upgrade -y`
 
 `# Run the Pi-hole automated installer`  
 `curl -sSL https://install.pi-hole.net | bash`  
-\`\`\`
+```
 
  During the installation:
 
@@ -61,10 +61,9 @@
 
 Default login password shown at end of install (can reset using:
 
-\`\`\`bash  
+```bash  
 ````pihole -a -p```)````
-
-\`\`\`
+```
 
 ![][image2]
 
@@ -166,7 +165,7 @@ Check query logs in Pi-hole dashboard:
 
 ---
 
- **RESULT:**  
+ # **RESULT:**  
   Network-wide ad/tracker/malware blocking  
   Faster browsing & fewer annoyances  
   Less DNS leakage — more privacy\!
