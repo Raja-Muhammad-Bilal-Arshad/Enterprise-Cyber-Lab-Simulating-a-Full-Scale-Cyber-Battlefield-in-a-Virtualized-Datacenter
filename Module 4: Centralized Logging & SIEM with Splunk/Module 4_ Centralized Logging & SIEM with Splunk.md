@@ -113,17 +113,18 @@ From the Splunk Web Dashboard:
 
 3. Use rsyslog to forward alerts:
    
-   ```bash
+```bash
 #Example for Suricata EVE JSON logs  
 sudo nano /etc/rsyslog.d/60-suricata.conf
 
 #Add: 
  @192.168.1.250:514 
-
-```
+ 
+ ```
 4.Restart rsyslog:
 
-   ```bash
+   
+```bash
 
 sudo systemctl restart rsyslog 
 
