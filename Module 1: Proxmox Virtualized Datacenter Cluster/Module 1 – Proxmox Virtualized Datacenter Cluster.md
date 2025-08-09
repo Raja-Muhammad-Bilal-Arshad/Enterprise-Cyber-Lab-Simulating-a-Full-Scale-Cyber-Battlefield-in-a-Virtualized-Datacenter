@@ -90,7 +90,7 @@ A **Proxmox Cluster** uses the corosync service to sync configuration and allow 
 
 ####  **On Master Node (Proxmox1):**
 
-\`\`\`bash  
+```bash  
 \# Set hostname  
 hostnamectl set-hostname proxmox1
 
@@ -104,11 +104,11 @@ nano /etc/hosts
 \# Create the cluster  
 pvecm create EnterpriseLab \--bindnet0 192.168.1.0
 
-**\`\`\`**
+```
 
 **On Joining Node (Proxmox2/Proxmox3):**
 
-\`\`\`bash  
+```bash  
 \# Set hostname  
 hostnamectl set-hostname proxmox2
 
@@ -119,11 +119,11 @@ nano /etc/hosts
 \# Join cluster (replace IP with master node’s IP)  
 pvecm add 192.168.1.101
 
-\`\`\`  
+```  
 **Check Cluster Status:**  
-\`\`\`bash  
+```bash  
 pvecm status  
-\`\`\`
+```
 
 You should see your nodes listed with their quorum status and vote count.
 
@@ -136,10 +136,12 @@ You should see your nodes listed with their quorum status and vote count.
 * Ensure **firewalls allow port 22 (SSH)** and **port 8006 (Web UI)**
 
 * If issues occur, restart corosync:  
-  \`\`\`bash  
+  ```bash  
 * systemctl restart corosync
 
-\`\`\`
+```
+
+
 
 ## **Summary**
 
