@@ -24,13 +24,13 @@ This module establishes a **centralized gateway and firewall layer** using **pfS
 
 The network follows a **multi-hop gateway architecture** to simulate layered security zones:
 
-\`\`\`yal  
+```yaml  
 Proxmox3 (WAN Simulation)  
       ↓  
 Proxmox1 (Gateway & Security) — pfSense (Main Router/Firewall)  
       ↓  
 Proxmox2 (SIEM Monitoring) — pfSense (Internal Security Firewall)  
-\`\`\`  
+```  
 ---
 
 ##  **Key Features Implemented**
