@@ -29,7 +29,7 @@
 
 ###  **Step 2: Install Splunk Enter (Free Edition )![][image2]**
 
-\`\`\`bash  
+```bash  
 `# Download Splunk (adjust version as needed)`  
 `wget -O splunk-9.deb 'https://download.splunk.com/products/splunk/releases/9.2.1/linux/splunk-9.2.1-dd0128b6e5cf-linux-2.6-amd64.deb'`
 
@@ -42,7 +42,7 @@
 `# Enable Splunk to start on boot`  
 `sudo /opt/splunk/bin/splunk enable boot-start`
 
-\`\`\`
+```
 
 ---
 
@@ -111,21 +111,24 @@ From the Splunk Web Dashboard:
 
    *  EVE JSON format (if supported)
 
-3. Use rsyslog to forward alerts:  
-   \`\`\`yaml
+3. Use rsyslog to forward alerts:
+   
+   ```bash
+#Example for Suricata EVE JSON logs  
+sudo nano /etc/rsyslog.d/60-suricata.conf
 
-`# Example for Suricata EVE JSON logs`  
-`sudo nano /etc/rsyslog.d/60-suricata.conf`
+#Add: 
+ @192.168.1.250:514 
 
-`# Add:`  
-`*.* @192.168.1.250:514`  
-\`\`\`
+```
+4.Restart rsyslog:
 
-4. Restart rsyslog:  
-   \`\`\`bash
+   ```bash
 
-`sudo systemctl restart rsyslog`  
-\`\`\`  
+sudo systemctl restart rsyslog 
+
+```
+
 ![][image9]
 
 ---
@@ -134,11 +137,12 @@ From the Splunk Web Dashboard:
 
 1. In Splunk, go to **Search & Reporting**
 
-Use queries like:  
-\`\`\`bash  
-`index=syslog sourcetype=pfSense | stats count by src_ip, dest_ip, action`
+Use queries like:
 
-\`\`\`
+
+```bash  
+ index=syslog sourcetype=pfSense | stats count by src_ip, dest_ip, action
+```
 
 2. Create dashboards for:
 
