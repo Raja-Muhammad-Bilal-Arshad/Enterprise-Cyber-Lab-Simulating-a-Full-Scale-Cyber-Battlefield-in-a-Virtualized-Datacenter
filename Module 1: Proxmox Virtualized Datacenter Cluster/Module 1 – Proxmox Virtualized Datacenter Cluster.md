@@ -136,10 +136,10 @@ You should see your nodes listed with their quorum status and vote count.
 * Ensure **firewalls allow port 22 (SSH)** and **port 8006 (Web UI)**
 
 * If issues occur, restart corosync:  
-  ```bash  
-* systemctl restart corosync
 
-```
+   ```bash
+    systemctl restart corosync
+   ```
 
 
 
