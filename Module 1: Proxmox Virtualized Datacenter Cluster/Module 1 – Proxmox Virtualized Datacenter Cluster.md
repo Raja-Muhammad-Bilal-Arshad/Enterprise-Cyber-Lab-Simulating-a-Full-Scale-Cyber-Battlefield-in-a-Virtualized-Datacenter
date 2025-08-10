@@ -16,7 +16,7 @@ This module sets up a **3-node Proxmox Virtual Environment (PVE) Cluster**, form
 
 * Modular node roles (e.g., gateway, SIEM, WAN simulation)
     
-![Cyber lab image](Assets/Module 1/1.1.png)
+![Cyber lab image](Assets/Module%201/1.1.png)
 
 ---
 
