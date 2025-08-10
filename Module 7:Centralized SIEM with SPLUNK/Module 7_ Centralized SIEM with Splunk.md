@@ -90,7 +90,7 @@ outputs:
 * Define source types and index (e.g., pfsense\_logs, dhcp\_logs, suricata\_alerts) for easy filtering.
   
 
-![Cyber lab image](../Assets/Module%207/7.2.png)
+![Cyber lab image](../Assets/Module%207/7.1.png)
 
 ---
 
