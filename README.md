@@ -78,8 +78,22 @@ Click any module to explore details.
 
 [Link Text](Module%201%3A%20Proxmox%20Virtualized%20Datacenter%20Cluster/Module%201%20%E2%80%93%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
 
+[Link Text](Module%202%20%E2%80%93%20pfSense%20Firewall%20%26%20Gateway%20Architecture/Module%202%20%E2%80%93%20pfSense%20Firewall%20%26%20Gateway%20Architecture.md)
+
+[Link Text](Module%203_%20Inline%20Network%20Security%20with%20Suricata%2C%20Snort%20%26%20pfBlockerNG%20in%20pfSense/Module%203_%20Inline%20Network%20Security%20with%20Suricata%2C%20Snort%20%26%20pfBlockerNG%20in%20pfSense.md)
+
+[Link Text](Module%204_%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk/Module%204_%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk.md)
+
+[Link Text](Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
 
 
+[Link Text](Module%206:%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner/6.1_%20Python%20Network%20Scanner.md)
+
+[Link Text](Module%207:Centralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
+
+[Link Text](Module%208:Distirbuted%20Penetration%20Testing%20%20&%20%20Defence%20Evaluation/Module%208_%20Distributed%20Penetration%20Testing%20&%20Defense%20Evaluation.md)
+
+[Link Text](Module%209:%20Secure%20Remote%20Access%20With%20ZeroTier/Module%209%20%E2%80%93%20Secure%20Remote%20Access%20with%20ZeroTier.md)
 
 
 
