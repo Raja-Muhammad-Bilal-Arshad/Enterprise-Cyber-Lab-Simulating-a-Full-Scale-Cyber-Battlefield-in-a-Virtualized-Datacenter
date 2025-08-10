@@ -92,7 +92,8 @@ Click any module to explore details.
 [Link Text](Module%206%3A%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner/6.1_%20Python%20Network%20Scanner.md)
 
 
-[Link Text](Module%207:Centralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
+
+[Module 7_ Centralized SIEM with Splunk](Module%207:Centralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
 
 [Link Text](Module%208:Distirbuted%20Penetration%20Testing%20%20&%20%20Defence%20Evaluation/Module%208_%20Distributed%20Penetration%20Testing%20&%20Defense%20Evaluation.md)
 
