@@ -33,6 +33,7 @@ Inside this **safe, isolated lab**, we stage a **live cyber battle**:
 * Provide a **repeatable platform** for testing, training, and research.
 
 ---
+![Cyber lab image](/Assets/Module%204/4.9.png)
 
 ##  **The Simulation Flow**
 
@@ -71,6 +72,7 @@ Inside this **safe, isolated lab**, we stage a **live cyber battle**:
    * Review of firewall logs, IDS hits, and SIEM correlation.
 
 ---
+![Cyber lab image](../Assets/Module%207/7.3.png)
 
 ##  **Module Index**
 
@@ -86,6 +88,8 @@ Click any module to explore details.
 - [Module 7 – Centralized SIEM with Splunk](Module%207%3ACentralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
 - [Module 8 – Distributed Penetration Testing & Defence Evaluation](Module%208%3ADistirbuted%20Penetration%20Testing%20%20%26%20%20Defence%20Evaluation/Module%208_%20Distributed%20Penetration%20Testing%20%26%20Defense%20Evaluation.md)
 - [Module 9 – Secure Remote Access With ZeroTier](Module%209%3A%20Secure%20Remote%20Access%20With%20ZeroTier/Module%209%20%E2%80%93%20Secure%20Remote%20Access%20with%20ZeroTier.md)
+
+![Cyber lab image](../Assets/Module%208/8.5.png)
 
 ##  **Technology Stack**
 
