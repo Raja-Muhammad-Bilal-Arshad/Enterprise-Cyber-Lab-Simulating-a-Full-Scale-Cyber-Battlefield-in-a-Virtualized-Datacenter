@@ -86,7 +86,7 @@ Click any module to explore details.
 [Link Text](Module%204%3A%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk/Module%204_%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk.md)
 
 
-[Link Text](Module%205%3A%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
+[Link Text](Module%205%3A%20Ad%20%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
 
 
 
