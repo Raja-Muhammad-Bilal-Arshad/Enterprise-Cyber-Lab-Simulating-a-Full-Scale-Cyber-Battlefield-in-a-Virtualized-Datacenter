@@ -14,8 +14,10 @@ This module sets up a **3-node Proxmox Virtual Environment (PVE) Cluster**, form
 
 * Future high-availability (HA) support
 
-* Modular node roles (e.g., gateway, SIEM, WAN simulation)  
+* Modular node roles (e.g., gateway, SIEM, WAN simulation)
+    
 ![Cyber lab image](Assets/Module 1/1.1.png)
+
 ---
 
 ##  **Infrastructure Topology**
