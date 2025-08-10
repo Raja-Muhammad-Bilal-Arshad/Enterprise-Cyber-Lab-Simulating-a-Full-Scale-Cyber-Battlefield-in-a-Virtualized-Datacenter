@@ -109,7 +109,8 @@ Click any module to explore details.
 
 ---
 
-### **Professional Disclaimer**
+
+ # **Disclaimer**
 
  This project and all associated materials are created and maintained by a **professional penetration tester** in offensive and defensive cybersecurity operations.
 
