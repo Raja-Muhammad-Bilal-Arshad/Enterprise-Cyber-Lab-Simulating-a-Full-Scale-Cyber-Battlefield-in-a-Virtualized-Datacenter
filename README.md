@@ -93,7 +93,8 @@ Click any module to explore details.
 
 
 
-[Module 7_ Centralized SIEM with Splunk](Module%207:Centralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
+[Link 7](Module%207%3ACentralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
+
 
 [Link Text](Module%208:Distirbuted%20Penetration%20Testing%20%20&%20%20Defence%20Evaluation/Module%208_%20Distributed%20Penetration%20Testing%20&%20Defense%20Evaluation.md)
 
