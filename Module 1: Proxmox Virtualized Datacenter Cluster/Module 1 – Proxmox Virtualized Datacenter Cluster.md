@@ -45,7 +45,7 @@ A **Proxmox Cluster** uses the corosync service to sync configuration and allow 
 
 * Nodes **must be on the same subnet** and have **unique hostnames**
 
-![Cyber lab image](Assets/Module 1/1.2.png)
+![Cyber lab image](../Assets/Module%201/1.2.png)
 
 ---
 
@@ -81,7 +81,7 @@ A **Proxmox Cluster** uses the corosync service to sync configuration and allow 
 
 ###  **Step 3: Reboot the node (if prompted)**
 
-![Cyber lab image](Assets/Module 1/1.3.png)
+![Cyber lab image](../Assets/Module%201/1.3.png)
 
 ---
 
@@ -154,5 +154,5 @@ You should see your nodes listed with their quorum status and vote count.
 
 * You now have a **clustered enterprise platform ready for advanced deployments**
 
-![Cyber lab image](Assets/Module 1/1.4.png)
+![Cyber lab image](../Assets/Module%201/1.4.png)
 
