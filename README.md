@@ -73,16 +73,17 @@ Inside this **safe, isolated lab**, we stage a **live cyber battle**:
 ##  **Module Index**
 
 Click any module to explore details.
+## 📜 Index
+- [Module 1 – Proxmox Virtualized Datacenter Cluster](Module%201:%20Proxmox%20Virtualized%20Datacenter%20Cluster/Module%201%20–%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
+- [Module 2 – pfSense Firewall & Gateway Architecture](Module%202%20–%20pfSense%20Firewall%20%26%20Gateway%20Architecture/Module%202%20–%20pfSense%20Firewall%20%26%20Gateway%20Architecture.md)
+- [Module 3 – Inline Network Security with Suricata, Snort & pfBlockerNG in pfSense](Module%203:%20Inline%20Network%20Security%20with%20Suricata,%20Snort%20%26%20pfBlockerNG%20in%20pfSense/Module%203:%20Inline%20Network%20Security%20with%20Suricata,%20Snort%20%26%20pfBlockerNG%20in%20pfSense.md)
+- [Module 4 – Centralized Logging & SIEM with Splunk](Module%204:%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk/Module%204:%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk.md)
+- [Module 5 – Ad & Tracker Blocking with Pi-hole DNS Sinkhole](Module%205:%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205:%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
+- [Module 6 – Few Penetration Testing Scripts](Module%206:%20Few%20Penetration%20Testing%20Scripts/Module%206:%20Few%20Penetration%20Testing%20Scripts.md)
+- [Module 7 – Centralized SIEM with Splunk](Module%207:Centralized%20SIEM%20with%20SPLUNK/Module%207:Centralized%20SIEM%20with%20SPLUNK.md)
+- [Module 8 – Distributed Penetration Testing & Defence Evaluation](Module%208:Distirbuted%20Penetration%20Testing%20%26%20Defence%20Evaluation/Module%208:Distirbuted%20Penetration%20Testing%20%26%20Defence%20Evaluation.md)
+- [Module 9 – Secure Remote Access With ZeroTier](Module%209:%20Secure%20Remote%20Access%20With%20ZeroTier/Module%209:%20Secure%20Remote%20Access%20With%20ZeroTier.md)
 
-1. [Module 1 – Proxmox Virtualized Datacenter Cluster](Module%201%20–%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
-2. [Module 2 – pfSense Firewall & Gateway Architecture](Module%202%20–%20pfSense%20Firewall%20&%20Gateway%20Architecture.md)
-[Module 3 – Inline Network Security with Suricata, Snort & pfBlockerNG in pfSense](Module%203%3A%20Inline%20Network%20Security%20with%20Suricata,%20Snort%20%26%20pfBlockerNG%20in%20pfSense.md)
-4. [Module 4 – Centralized Logging & SIEM with Splunk](Module%204%20–%20Centralized%20Logging%20&%20SIEM%20with%20Splunk.md)
-5. [Module 5 – Ad & Tracker Blocking with Pi-hole DNS Sinkhole](Module%205%20–%20Ad%20&%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
-6. [Module 6 – Few Penetration Testing Scripts](Module%206%20–%20Few%20Penetration%20Testing%20Scripts.md)
-7. [Module 7 – Centralized SIEM with Splunk](Module%207%20–%20Centralized%20SIEM%20with%20Splunk.md)
-8. [Module 8 – WAN Traffic Simulation Infrastructure](Module%208%20–%20WAN%20Traffic%20Simulation%20Infrastructure.md)
-9. [Module 9 – Final Security Validation & Attack Simulation](Module%209%20–%20Final%20Security%20Validation%20&%20Attack%20Simulation.md)
 
 ##  **Technology Stack**
 
