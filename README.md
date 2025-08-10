@@ -76,7 +76,8 @@ Click any module to explore details.
 ## 📜 Index
 
 
-[Link Text](Enterprise-Cyber-Lab-Simulating-a-Full-Scale-Cyber-Battlefield-in-a-Virtualized-Datacenter/Module%201%20%E2%80%93%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
+[Link Text](Module%201%3A%20Proxmox%20Virtualized%20Datacenter%20Cluster/Module%201%20%E2%80%93%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
+
 
 
 
