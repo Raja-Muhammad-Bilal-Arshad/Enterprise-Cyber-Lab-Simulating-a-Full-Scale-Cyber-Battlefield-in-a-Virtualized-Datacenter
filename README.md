@@ -74,23 +74,15 @@ Inside this **safe, isolated lab**, we stage a **live cyber battle**:
 
 Click any module to explore details.
 
-1. Proxmox Virtualized Datacenter Cluster
-
-2. pfSense Firewall & Gateway Architecture
-
-3. Inline Network Security with Suricata, Snort & pfBlockerNG
-
-4. Centralized Logging & SIEM with Splunk
-
-5. Ad & Tracker Blocking with Pi-hole DNS Sinkhole
-
-6. Penetration Testing Scripts
-
-7. Centralized SIEM with Splunk
-
-8. Distributed Penetration Testing & Defense Evaluation
-
-9. Secure Remote Access with ZeroTier
+1. [Module 1 – Proxmox Virtualized Datacenter Cluster](Module%201%20–%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
+2. [Module 2 – pfSense Firewall & Gateway Architecture](Module%202%20–%20pfSense%20Firewall%20&%20Gateway%20Architecture.md)
+3. [Module 3 – Inline Network Security with Suricata, Snort & pfBlockerNG in pfSense](Module%203%20–%20Inline%20Network%20Security%20with%20Suricata,%20Snort%20&%20pfBlockerNG%20in%20pfSense.md)
+4. [Module 4 – Centralized Logging & SIEM with Splunk](Module%204%20–%20Centralized%20Logging%20&%20SIEM%20with%20Splunk.md)
+5. [Module 5 – Ad & Tracker Blocking with Pi-hole DNS Sinkhole](Module%205%20–%20Ad%20&%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
+6. [Module 6 – Few Penetration Testing Scripts](Module%206%20–%20Few%20Penetration%20Testing%20Scripts.md)
+7. [Module 7 – Centralized SIEM with Splunk](Module%207%20–%20Centralized%20SIEM%20with%20Splunk.md)
+8. [Module 8 – WAN Traffic Simulation Infrastructure](Module%208%20–%20WAN%20Traffic%20Simulation%20Infrastructure.md)
+9. [Module 9 – Final Security Validation & Attack Simulation](Module%209%20–%20Final%20Security%20Validation%20&%20Attack%20Simulation.md)
 
 ##  **Technology Stack**
 
