@@ -111,31 +111,31 @@ Click any module to explore details.
 
 ## **Professional Disclaimer**
 
-## This project and all associated materials are created and maintained by a **professional penetration tester** in offensive and defensive cybersecurity operations.
+# This project and all associated materials are created and maintained by a **professional penetration tester** in offensive and defensive cybersecurity operations.
 
-## All demonstrations, simulations, scripts, configurations, and attack scenarios contained within this repository are intended **solely for use in authorized, controlled, and isolated environments** such as lab networks, virtualized testbeds, and academic/research setups.
+# All demonstrations, simulations, scripts, configurations, and attack scenarios contained within this repository are intended **solely for use in authorized, controlled, and isolated environments** such as lab networks, virtualized testbeds, and academic/research setups.
 
-## **No part of this work is to be executed, replicated, or adapted against any live, production, or internet-facing system without prior *written* consent from the legitimate system owner.**
+# **No part of this work is to be executed, replicated, or adapted against any live, production, or internet-facing system without prior *written* consent from the legitimate system owner.**
 
-## The author **does not assume any liability** for misuse, damages, or legal consequences resulting from the use or deployment of the materials herein outside of their intended purpose.  By accessing or using any part of this repository, you acknowledge and agree that:
+# The author **does not assume any liability** for misuse, damages, or legal consequences resulting from the use or deployment of the materials herein outside of their intended purpose.  By accessing or using any part of this repository, you acknowledge and agree that:
 
-1. ## You are solely responsible for your actions. 
+1. # You are solely responsible for your actions. 
 
-2. ## You will comply with all applicable local, national, and international laws. 
+2. # You will comply with all applicable local, national, and international laws. 
 
-3. ## You will obtain proper authorization before engaging in any penetration testing or security research outside of a lab environment. 
+3. # You will obtain proper authorization before engaging in any penetration testing or security research outside of a lab environment. 
 
-## This repository is published for:
+# This repository is published for:
 
-* ## Professional training 
+* # Professional training 
 
-* ## Academic research 
+* # Academic research 
 
-* ## Security awareness 
+* # Security awareness 
 
-* ## Authorized penetration testing methodology demonstration 
+* # Authorized penetration testing methodology demonstration 
 
-##  **If you are not fully aware of the legal boundaries of penetration testing, stop immediately and seek professional guidance.** Unauthorized use of these techniques can result in severe criminal and civil penalties.
+#  **If you are not fully aware of the legal boundaries of penetration testing, stop immediately and seek professional guidance.** Unauthorized use of these techniques can result in severe criminal and civil penalties.
 
-## 
+
 
