@@ -89,8 +89,8 @@ Click any module to explore details.
 [Link Text](Module%205%3A%20Ad%20%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
 
 
+[Link Text](Module%206%3A%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner/6.1_%20Python%20Network%20Scanner.md)
 
-[Link Text](Module%206:%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner/6.1_%20Python%20Network%20Scanner.md)
 
 [Link Text](Module%207:Centralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
 
