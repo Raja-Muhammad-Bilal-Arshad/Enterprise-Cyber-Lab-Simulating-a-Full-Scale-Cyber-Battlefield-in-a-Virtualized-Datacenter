@@ -18,7 +18,7 @@ Inside this **safe, isolated lab**, we stage a **live cyber battle**:
 
 ---
 
-![Cyber lab image](../Assets/Module%201/1.1.png)
+![Cyber lab image](Assets/Module%201/1.1.png)
 
 ##  **Lab Objectives**
 
