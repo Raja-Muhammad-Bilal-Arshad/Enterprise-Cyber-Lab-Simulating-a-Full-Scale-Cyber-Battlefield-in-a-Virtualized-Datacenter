@@ -75,46 +75,15 @@ Inside this **safe, isolated lab**, we stage a **live cyber battle**:
 Click any module to explore details.
 ## 📜 Index
 
-
-[Link Text](Module%201%3A%20Proxmox%20Virtualized%20Datacenter%20Cluster/Module%201%20%E2%80%93%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
-
-[Link Text](Module%202%20%E2%80%93%20pfSense%20Firewall%20%26%20Gateway%20Architecture/Module%202%20%E2%80%93%20pfSense%20Firewall%20%26%20Gateway%20Architecture.md)
-
-[Link Text](Module%203%3A%20Inline%20Network%20Security%20with%20Suricata%2C%20Snort%20%26%20pfBlockerNG%20in%20pfSense/Module%203_%20Inline%20Network%20Security%20with%20Suricata%2C%20Snort%20%26%20pfBlockerNG%20in%20pfSense.md)
-
-
-[Link Text](Module%204%3A%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk/Module%204_%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk.md)
-
-
-[Link Text](Module%205%3A%20Ad%20%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
-
-
-[Link Text](Module%206%3A%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner/6.1_%20Python%20Network%20Scanner.md)
-
-
-
-[Link 7](Module%207%3ACentralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
-
-
-[Link 8](Module%208%3ADistirbuted%20Penetration%20Testing%20%20%26%20%20Defence%20Evaluation/Module%208_%20Distributed%20Penetration%20Testing%20%26%20Defense%20Evaluation.md)
-
-
-[Link Text](Module%209:%20Secure%20Remote%20Access%20With%20ZeroTier/Module%209%20%E2%80%93%20Secure%20Remote%20Access%20with%20ZeroTier.md)
-
-
-[Link](Module%209%3A%20Secure%20Remote%20Access%20With%20ZeroTier/Module%209%20%E2%80%93%20Secure%20Remote%20Access%20with%20ZeroTier.md)
-
-
-
-- [Module 1 – Proxmox Virtualized Datacenter Cluster](Module%201%20–%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
-- [Module 2 – pfSense Firewall & Gateway Architecture](Module%202%20–%20pfSense%20Firewall%20%26%20Gateway%20Architecture.md)
-- [Module 3 – Inline Network Security with Suricata, Snort & pfBlockerNG in pfSense](Module%203_%20Inline%20Network%20Security%20with%20Suricata,%20Snort%20%26%20pfBlockerNG%20in%20pfSense.md)
-- [Module 4 – Centralized Logging & SIEM with Splunk](Module%204_%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk.md)
-- [Module 5 – Ad & Tracker Blocking with Pi-hole DNS Sinkhole](Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
-- [Module 6 – Few Penetration Testing Scripts](Module%206_%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner.md) <!-- If you want this to open the first README of module 6 -->
-- [Module 7 – Centralized SIEM with Splunk](Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
-- [Module 8 – Distributed Penetration Testing & Defence Evaluation](Module%208_%20Distributed%20Penetration%20Testing%20%26%20Defense%20Evaluation.md)
-- [Module 9 – Secure Remote Access With ZeroTier](Module%209%20–%20Secure%20Remote%20Access%20with%20ZeroTier.md)
+- [Module 1 – Proxmox Virtualized Datacenter Cluster](Module%201%3A%20Proxmox%20Virtualized%20Datacenter%20Cluster/Module%201%20%E2%80%93%20Proxmox%20Virtualized%20Datacenter%20Cluster.md)
+- [Module 2 – pfSense Firewall & Gateway Architecture](Module%202%20%E2%80%93%20pfSense%20Firewall%20%26%20Gateway%20Architecture/Module%202%20%E2%80%93%20pfSense%20Firewall%20%26%20Gateway%20Architecture.md)
+- [Module 3 – Inline Network Security with Suricata, Snort & pfBlockerNG in pfSense](Module%203%3A%20Inline%20Network%20Security%20with%20Suricata%2C%20Snort%20%26%20pfBlockerNG%20in%20pfSense/Module%203_%20Inline%20Network%20Security%20with%20Suricata%2C%20Snort%20%26%20pfBlockerNG%20in%20pfSense.md)
+- [Module 4 – Centralized Logging & SIEM with Splunk](Module%204%3A%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk/Module%204_%20Centralized%20Logging%20%26%20SIEM%20with%20Splunk.md)
+- [Module 5 – Ad & Tracker Blocking with Pi-hole DNS Sinkhole](Module%205%3A%20Ad%20%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole/Module%205_%20Ad%20%26%20Tracker%20Blocking%20with%20Pi-hole%20DNS%20Sinkhole.md)
+- [Module 6 – Few Penetration Testing Scripts](Module%206%3A%20Few%20Penetration%20Testing%20Scripts/6.1_%20Python%20Network%20Scanner/6.1_%20Python%20Network%20Scanner.md)
+- [Module 7 – Centralized SIEM with Splunk](Module%207%3ACentralized%20SIEM%20with%20SPLUNK/Module%207_%20Centralized%20SIEM%20with%20Splunk.md)
+- [Module 8 – Distributed Penetration Testing & Defence Evaluation](Module%208%3ADistirbuted%20Penetration%20Testing%20%20%26%20%20Defence%20Evaluation/Module%208_%20Distributed%20Penetration%20Testing%20%26%20Defense%20Evaluation.md)
+- [Module 9 – Secure Remote Access With ZeroTier](Module%209%3A%20Secure%20Remote%20Access%20With%20ZeroTier/Module%209%20%E2%80%93%20Secure%20Remote%20Access%20with%20ZeroTier.md)
 
 ##  **Technology Stack**
 
