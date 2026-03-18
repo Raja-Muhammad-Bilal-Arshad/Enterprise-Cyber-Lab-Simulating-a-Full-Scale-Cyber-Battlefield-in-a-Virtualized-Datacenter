@@ -1,3 +1,28 @@
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/Raja-Muhammad-Bilal-Arshad/Enterprise-Cyber-Lab-Simulating-a-Full-Scale-Cyber-Battlefield-in-a-Virtualized-Datacenter?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/Raja-Muhammad-Bilal-Arshad/Enterprise-Cyber-Lab-Simulating-a-Full-Scale-Cyber-Battlefield-in-a-Virtualized-Datacenter?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/Raja-Muhammad-Bilal-Arshad/Enterprise-Cyber-Lab-Simulating-a-Full-Scale-Cyber-Battlefield-in-a-Virtualized-Datacenter?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/Raja-Muhammad-Bilal-Arshad/Enterprise-Cyber-Lab-Simulating-a-Full-Scale-Cyber-Battlefield-in-a-Virtualized-Datacenter?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Virtualization-Proxmox-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firewall-pfSense-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IDS/IPS-Suricata%20%7C%20Snort-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DNS-Pi--hole-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Attack%20Toolkit-Kali%20Linux-green?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Yes-blueviolet?style=for-the-badge" />
+
+</p>
+
+
 # **Enterprise Cyber Lab:**
 
 # Simulating a Full-Scale Cyber Battlefield in a Virtualized Datacenter
